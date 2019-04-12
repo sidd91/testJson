@@ -1,0 +1,877 @@
+{
+    "status": 0,
+    "data": {
+        "content": [
+            {
+                "id": 259089544,
+                "location": {
+                    "latitude": 37.40377,
+                    "longitude": -121.97856,
+                    "radius": 0,
+                    "valid": true
+                },
+                "temperature": 22.4,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[2556,2496,2543]",
+                "magnetometer": "[2470,2611,2585]",
+                "scheduleCase": 1,
+                "firmwareVersion": 34,
+                "time": 1555023882,
+                "sourceType": "WIFI",
+                "latitude": 37.40377,
+                "longitude": -121.97856,
+                "radius": 0,
+                "unixTime": 1555023882,
+                "formattedTime": "2019-04-11 23:04:42",
+                "RFC3339Time": "2019-04-11T23:04:42Z",
+                "gyroArray": [
+                    2556,
+                    2496,
+                    2543
+                ],
+                "magnetometerArray": [
+                    2470,
+                    2611,
+                    2585
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259045613,
+                "location": {
+                    "latitude": 37.40377,
+                    "longitude": -121.97856,
+                    "radius": 0,
+                    "valid": true
+                },
+                "temperature": 22.3,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[2540,2507,2549]",
+                "magnetometer": "[2470,2611,2586]",
+                "scheduleCase": 1,
+                "firmwareVersion": 34,
+                "time": 1555020355,
+                "sourceType": "WIFI",
+                "latitude": 37.40377,
+                "longitude": -121.97856,
+                "radius": 0,
+                "unixTime": 1555020355,
+                "formattedTime": "2019-04-11 22:05:55",
+                "RFC3339Time": "2019-04-11T22:05:55Z",
+                "gyroArray": [
+                    2540,
+                    2507,
+                    2549
+                ],
+                "magnetometerArray": [
+                    2470,
+                    2611,
+                    2586
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259045607,
+                "location": null,
+                "temperature": 22.3,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[524,-351,255]",
+                "magnetometer": "[-599,1077,767]",
+                "firmwareVersion": 0,
+                "time": 1555019720,
+                "sourceType": "SENSORS_LOG",
+                "unixTime": 1555019720,
+                "formattedTime": "2019-04-11 21:55:20",
+                "RFC3339Time": "2019-04-11T21:55:20Z",
+                "gyroArray": [
+                    524,
+                    -351,
+                    255
+                ],
+                "magnetometerArray": [
+                    -599,
+                    1077,
+                    767
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259045606,
+                "location": null,
+                "temperature": 22.4,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[528,-346,242]",
+                "magnetometer": "[-594,1077,779]",
+                "firmwareVersion": 0,
+                "time": 1555019118,
+                "sourceType": "SENSORS_LOG",
+                "unixTime": 1555019118,
+                "formattedTime": "2019-04-11 21:45:18",
+                "RFC3339Time": "2019-04-11T21:45:18Z",
+                "gyroArray": [
+                    528,
+                    -346,
+                    242
+                ],
+                "magnetometerArray": [
+                    -594,
+                    1077,
+                    779
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259045608,
+                "location": null,
+                "temperature": 22.4,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[174,-232,441]",
+                "magnetometer": "[-596,1087,775]",
+                "firmwareVersion": 0,
+                "time": 1555018516,
+                "sourceType": "SENSORS_LOG",
+                "unixTime": 1555018516,
+                "formattedTime": "2019-04-11 21:35:16",
+                "RFC3339Time": "2019-04-11T21:35:16Z",
+                "gyroArray": [
+                    174,
+                    -232,
+                    441
+                ],
+                "magnetometerArray": [
+                    -596,
+                    1087,
+                    775
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259045604,
+                "location": null,
+                "temperature": 22.4,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[541,-429,256]",
+                "magnetometer": "[-593,1065,782]",
+                "firmwareVersion": 0,
+                "time": 1555017914,
+                "sourceType": "SENSORS_LOG",
+                "unixTime": 1555017914,
+                "formattedTime": "2019-04-11 21:25:14",
+                "RFC3339Time": "2019-04-11T21:25:14Z",
+                "gyroArray": [
+                    541,
+                    -429,
+                    256
+                ],
+                "magnetometerArray": [
+                    -593,
+                    1065,
+                    782
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259045603,
+                "location": null,
+                "temperature": 22.5,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[283,-75,329]",
+                "magnetometer": "[-600,1085,766]",
+                "firmwareVersion": 0,
+                "time": 1555017312,
+                "sourceType": "SENSORS_LOG",
+                "unixTime": 1555017312,
+                "formattedTime": "2019-04-11 21:15:12",
+                "RFC3339Time": "2019-04-11T21:15:12Z",
+                "gyroArray": [
+                    283,
+                    -75,
+                    329
+                ],
+                "magnetometerArray": [
+                    -600,
+                    1085,
+                    766
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259045605,
+                "location": null,
+                "temperature": 22.4,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[2541,2514,2553]",
+                "magnetometer": "[2469,2610,2584]",
+                "scheduleCase": 1,
+                "firmwareVersion": 34,
+                "time": 1555016710,
+                "sourceType": "BLE_LOG",
+                "unixTime": 1555016710,
+                "formattedTime": "2019-04-11 21:05:10",
+                "RFC3339Time": "2019-04-11T21:05:10Z",
+                "gyroArray": [
+                    2541,
+                    2514,
+                    2553
+                ],
+                "magnetometerArray": [
+                    2469,
+                    2610,
+                    2584
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259036803,
+                "location": {
+                    "latitude": 37.40377,
+                    "longitude": -121.97856,
+                    "radius": 0,
+                    "valid": true
+                },
+                "temperature": 22.4,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[2541,2514,2553]",
+                "magnetometer": "[2469,2610,2584]",
+                "scheduleCase": 1,
+                "firmwareVersion": 34,
+                "time": 1555016706,
+                "sourceType": "WIFI",
+                "latitude": 37.40377,
+                "longitude": -121.97856,
+                "radius": 0,
+                "unixTime": 1555016706,
+                "formattedTime": "2019-04-11 21:05:06",
+                "RFC3339Time": "2019-04-11T21:05:06Z",
+                "gyroArray": [
+                    2541,
+                    2514,
+                    2553
+                ],
+                "magnetometerArray": [
+                    2469,
+                    2610,
+                    2584
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259045609,
+                "location": {
+                    "latitude": 37.40385,
+                    "longitude": -121.97854,
+                    "radius": 0,
+                    "valid": true
+                },
+                "temperature": 22.4,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[2541,2514,2553]",
+                "magnetometer": "[2469,2610,2584]",
+                "scheduleCase": 1,
+                "firmwareVersion": 34,
+                "time": 1555016697,
+                "sourceType": "WIFI_LOG",
+                "latitude": 37.40385,
+                "longitude": -121.97854,
+                "radius": 0,
+                "unixTime": 1555016697,
+                "formattedTime": "2019-04-11 21:04:57",
+                "RFC3339Time": "2019-04-11T21:04:57Z",
+                "gyroArray": [
+                    2541,
+                    2514,
+                    2553
+                ],
+                "magnetometerArray": [
+                    2469,
+                    2610,
+                    2584
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259036797,
+                "location": null,
+                "temperature": 22.4,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[241,119,446]",
+                "magnetometer": "[-604,1078,779]",
+                "firmwareVersion": 0,
+                "time": 1555016104,
+                "sourceType": "SENSORS_LOG",
+                "unixTime": 1555016104,
+                "formattedTime": "2019-04-11 20:55:04",
+                "RFC3339Time": "2019-04-11T20:55:04Z",
+                "gyroArray": [
+                    241,
+                    119,
+                    446
+                ],
+                "magnetometerArray": [
+                    -604,
+                    1078,
+                    779
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259036799,
+                "location": null,
+                "temperature": 22.5,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[270,110,343]",
+                "magnetometer": "[-595,1075,783]",
+                "firmwareVersion": 0,
+                "time": 1555015502,
+                "sourceType": "SENSORS_LOG",
+                "unixTime": 1555015502,
+                "formattedTime": "2019-04-11 20:45:02",
+                "RFC3339Time": "2019-04-11T20:45:02Z",
+                "gyroArray": [
+                    270,
+                    110,
+                    343
+                ],
+                "magnetometerArray": [
+                    -595,
+                    1075,
+                    783
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259036796,
+                "location": null,
+                "temperature": 22.6,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[283,-79,304]",
+                "magnetometer": "[-601,1074,800]",
+                "firmwareVersion": 0,
+                "time": 1555014900,
+                "sourceType": "SENSORS_LOG",
+                "unixTime": 1555014900,
+                "formattedTime": "2019-04-11 20:35:00",
+                "RFC3339Time": "2019-04-11T20:35:00Z",
+                "gyroArray": [
+                    283,
+                    -79,
+                    304
+                ],
+                "magnetometerArray": [
+                    -601,
+                    1074,
+                    800
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259036798,
+                "location": null,
+                "temperature": 22.7,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[360,-142,296]",
+                "magnetometer": "[-598,1075,767]",
+                "firmwareVersion": 0,
+                "time": 1555014298,
+                "sourceType": "SENSORS_LOG",
+                "unixTime": 1555014298,
+                "formattedTime": "2019-04-11 20:24:58",
+                "RFC3339Time": "2019-04-11T20:24:58Z",
+                "gyroArray": [
+                    360,
+                    -142,
+                    296
+                ],
+                "magnetometerArray": [
+                    -598,
+                    1075,
+                    767
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259036794,
+                "location": null,
+                "temperature": 22.9,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[424,-281,261]",
+                "magnetometer": "[-600,1070,764]",
+                "firmwareVersion": 0,
+                "time": 1555013696,
+                "sourceType": "SENSORS_LOG",
+                "unixTime": 1555013696,
+                "formattedTime": "2019-04-11 20:14:56",
+                "RFC3339Time": "2019-04-11T20:14:56Z",
+                "gyroArray": [
+                    424,
+                    -281,
+                    261
+                ],
+                "magnetometerArray": [
+                    -600,
+                    1070,
+                    764
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259036795,
+                "location": null,
+                "temperature": 22.8,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[2556,2492,2545]",
+                "magnetometer": "[2469,2610,2585]",
+                "scheduleCase": 1,
+                "firmwareVersion": 34,
+                "time": 1555013094,
+                "sourceType": "BLE_LOG",
+                "unixTime": 1555013094,
+                "formattedTime": "2019-04-11 20:04:54",
+                "RFC3339Time": "2019-04-11T20:04:54Z",
+                "gyroArray": [
+                    2556,
+                    2492,
+                    2545
+                ],
+                "magnetometerArray": [
+                    2469,
+                    2610,
+                    2585
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259028039,
+                "location": {
+                    "latitude": 37.40377,
+                    "longitude": -121.97856,
+                    "radius": 0,
+                    "valid": true
+                },
+                "temperature": 22.8,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[2556,2492,2545]",
+                "magnetometer": "[2469,2610,2585]",
+                "scheduleCase": 1,
+                "firmwareVersion": 34,
+                "time": 1555013091,
+                "sourceType": "WIFI",
+                "latitude": 37.40377,
+                "longitude": -121.97856,
+                "radius": 0,
+                "unixTime": 1555013091,
+                "formattedTime": "2019-04-11 20:04:51",
+                "RFC3339Time": "2019-04-11T20:04:51Z",
+                "gyroArray": [
+                    2556,
+                    2492,
+                    2545
+                ],
+                "magnetometerArray": [
+                    2469,
+                    2610,
+                    2585
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259036800,
+                "location": {
+                    "latitude": 37.40348,
+                    "longitude": -121.97877,
+                    "radius": 0,
+                    "valid": true
+                },
+                "temperature": 22.8,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[2556,2492,2545]",
+                "magnetometer": "[2469,2610,2585]",
+                "scheduleCase": 1,
+                "firmwareVersion": 34,
+                "time": 1555013082,
+                "sourceType": "WIFI_LOG",
+                "latitude": 37.40348,
+                "longitude": -121.97877,
+                "radius": 0,
+                "unixTime": 1555013082,
+                "formattedTime": "2019-04-11 20:04:42",
+                "RFC3339Time": "2019-04-11T20:04:42Z",
+                "gyroArray": [
+                    2556,
+                    2492,
+                    2545
+                ],
+                "magnetometerArray": [
+                    2469,
+                    2610,
+                    2585
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259028033,
+                "location": null,
+                "temperature": 22.8,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[397,-2,218]",
+                "magnetometer": "[-604,1066,774]",
+                "firmwareVersion": 0,
+                "time": 1555012538,
+                "sourceType": "SENSORS_LOG",
+                "unixTime": 1555012538,
+                "formattedTime": "2019-04-11 19:55:38",
+                "RFC3339Time": "2019-04-11T19:55:38Z",
+                "gyroArray": [
+                    397,
+                    -2,
+                    218
+                ],
+                "magnetometerArray": [
+                    -604,
+                    1066,
+                    774
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259028031,
+                "location": null,
+                "temperature": 22.9,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[226,-76,348]",
+                "magnetometer": "[-597,1064,775]",
+                "firmwareVersion": 0,
+                "time": 1555011936,
+                "sourceType": "SENSORS_LOG",
+                "unixTime": 1555011936,
+                "formattedTime": "2019-04-11 19:45:36",
+                "RFC3339Time": "2019-04-11T19:45:36Z",
+                "gyroArray": [
+                    226,
+                    -76,
+                    348
+                ],
+                "magnetometerArray": [
+                    -597,
+                    1064,
+                    775
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259028036,
+                "location": null,
+                "temperature": 22.9,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[488,-426,256]",
+                "magnetometer": "[-598,1069,771]",
+                "firmwareVersion": 0,
+                "time": 1555011334,
+                "sourceType": "SENSORS_LOG",
+                "unixTime": 1555011334,
+                "formattedTime": "2019-04-11 19:35:34",
+                "RFC3339Time": "2019-04-11T19:35:34Z",
+                "gyroArray": [
+                    488,
+                    -426,
+                    256
+                ],
+                "magnetometerArray": [
+                    -598,
+                    1069,
+                    771
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259028035,
+                "location": null,
+                "temperature": 23,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[493,-333,333]",
+                "magnetometer": "[-603,1072,777]",
+                "firmwareVersion": 0,
+                "time": 1555010732,
+                "sourceType": "SENSORS_LOG",
+                "unixTime": 1555010732,
+                "formattedTime": "2019-04-11 19:25:32",
+                "RFC3339Time": "2019-04-11T19:25:32Z",
+                "gyroArray": [
+                    493,
+                    -333,
+                    333
+                ],
+                "magnetometerArray": [
+                    -603,
+                    1072,
+                    777
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259028034,
+                "location": null,
+                "temperature": 23.1,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[395,-420,269]",
+                "magnetometer": "[-602,1066,775]",
+                "firmwareVersion": 0,
+                "time": 1555010130,
+                "sourceType": "SENSORS_LOG",
+                "unixTime": 1555010130,
+                "formattedTime": "2019-04-11 19:15:30",
+                "RFC3339Time": "2019-04-11T19:15:30Z",
+                "gyroArray": [
+                    395,
+                    -420,
+                    269
+                ],
+                "magnetometerArray": [
+                    -602,
+                    1066,
+                    775
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259028032,
+                "location": null,
+                "temperature": 23.2,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[2553,2504,2542]",
+                "magnetometer": "[2470,2610,2585]",
+                "scheduleCase": 1,
+                "firmwareVersion": 34,
+                "time": 1555009528,
+                "sourceType": "BLE_LOG",
+                "unixTime": 1555009528,
+                "formattedTime": "2019-04-11 19:05:28",
+                "RFC3339Time": "2019-04-11T19:05:28Z",
+                "gyroArray": [
+                    2553,
+                    2504,
+                    2542
+                ],
+                "magnetometerArray": [
+                    2470,
+                    2610,
+                    2585
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259011372,
+                "location": {
+                    "latitude": 37.40382,
+                    "longitude": -121.97845,
+                    "radius": 0,
+                    "valid": true
+                },
+                "temperature": 23.2,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[2553,2504,2542]",
+                "magnetometer": "[2470,2610,2585]",
+                "scheduleCase": 1,
+                "firmwareVersion": 34,
+                "time": 1555009525,
+                "sourceType": "WIFI",
+                "latitude": 37.40382,
+                "longitude": -121.97845,
+                "radius": 0,
+                "unixTime": 1555009525,
+                "formattedTime": "2019-04-11 19:05:25",
+                "RFC3339Time": "2019-04-11T19:05:25Z",
+                "gyroArray": [
+                    2553,
+                    2504,
+                    2542
+                ],
+                "magnetometerArray": [
+                    2470,
+                    2610,
+                    2585
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259028037,
+                "location": {
+                    "latitude": 37.40406,
+                    "longitude": -121.97835,
+                    "radius": 0,
+                    "valid": true
+                },
+                "temperature": 23.2,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[2553,2504,2542]",
+                "magnetometer": "[2470,2610,2585]",
+                "scheduleCase": 1,
+                "firmwareVersion": 34,
+                "time": 1555009518,
+                "sourceType": "WIFI_LOG",
+                "latitude": 37.40406,
+                "longitude": -121.97835,
+                "radius": 0,
+                "unixTime": 1555009518,
+                "formattedTime": "2019-04-11 19:05:18",
+                "RFC3339Time": "2019-04-11T19:05:18Z",
+                "gyroArray": [
+                    2553,
+                    2504,
+                    2542
+                ],
+                "magnetometerArray": [
+                    2470,
+                    2610,
+                    2585
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259028030,
+                "location": null,
+                "temperature": 23.5,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[447,-127,365]",
+                "magnetometer": "[-490,231,577]",
+                "firmwareVersion": 0,
+                "time": 1555008975,
+                "sourceType": "SENSORS_LOG",
+                "unixTime": 1555008975,
+                "formattedTime": "2019-04-11 18:56:15",
+                "RFC3339Time": "2019-04-11T18:56:15Z",
+                "gyroArray": [
+                    447,
+                    -127,
+                    365
+                ],
+                "magnetometerArray": [
+                    -490,
+                    231,
+                    577
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259009510,
+                "location": null,
+                "temperature": 23,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[2541,2517,2541]",
+                "magnetometer": "[2489,2547,2538]",
+                "scheduleCase": 1,
+                "firmwareVersion": 34,
+                "time": 1555008368,
+                "sourceType": "BLE_LOG",
+                "unixTime": 1555008368,
+                "formattedTime": "2019-04-11 18:46:08",
+                "RFC3339Time": "2019-04-11T18:46:08Z",
+                "gyroArray": [
+                    2541,
+                    2517,
+                    2541
+                ],
+                "magnetometerArray": [
+                    2489,
+                    2547,
+                    2538
+                ],
+                "macData": [],
+                "cellData": []
+            },
+            {
+                "id": 259004851,
+                "location": {
+                    "latitude": 37.40377,
+                    "longitude": -121.97856,
+                    "radius": 0,
+                    "valid": true
+                },
+                "temperature": 23,
+                "batteryCharge": 0.67,
+                "lightBack": 0,
+                "gyro": "[2541,2517,2541]",
+                "magnetometer": "[2489,2547,2538]",
+                "scheduleCase": 1,
+                "firmwareVersion": 34,
+                "time": 1555008364,
+                "sourceType": "WIFI",
+                "latitude": 37.40377,
+                "longitude": -121.97856,
+                "radius": 0,
+                "unixTime": 1555008364,
+                "formattedTime": "2019-04-11 18:46:04",
+                "RFC3339Time": "2019-04-11T18:46:04Z",
+                "gyroArray": [
+                    2541,
+                    2517,
+                    2541
+                ],
+                "magnetometerArray": [
+                    2489,
+                    2547,
+                    2538
+                ],
+                "macData": [],
+                "cellData": []
+            }
+        ],
+        "last": true,
+        "totalElements": 29
+    }
+}
